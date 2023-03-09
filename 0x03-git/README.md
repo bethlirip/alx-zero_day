@@ -1,2 +1,2 @@
 My first readme
-Required to be updated
+I have made changes to this file from the github web page.
